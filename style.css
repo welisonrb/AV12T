@@ -4,12 +4,12 @@ padding: 0;
 }
 
 .cabecalho {
-background-color: aqua;
+background-color: rgb(28, 61, 61);
 color:white
 display: flex;
 justify-content: space-around;
 align-itens: center;
-padding: 0 16px;
+padding: 24px 0;
 }
 
 .cabecalho-imagem{
